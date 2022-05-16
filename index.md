@@ -1,36 +1,12 @@
-## Welcome to GitHub Pages
+## Baseline ProPresenter 7 configuration for Grace Bible Church in College Station, Texas
 
-You can use the [editor on GitHub](https://github.com/ag14spirit/ProPresenter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+To keep corporate worship and sermon presentations running smoothly for Worship Leaders, Pastors, and Production teams, we’ve transitioned to using ProPresenter 7 with Blackmagic Design DeckLink output hardware across all Grace campuses in large corporate worship spaces, as well as in some medium auxiliary use spaces.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Staff and lay leaders maintain this repository for basic configuration version tracking as we produce useful starting templates for easy, modular deployment in new campuses, special events, auxiliary spaces, and to share with constituent partner ministries.
 
-### Markdown
+### Workflow
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ag14spirit/ProPresenter/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Herein we attempt to suggest best practices where universally applicable. Though some of these practices are considered System-wide operating standards, a majority merely represent best practices as proven by consistency, adaptability, and robustness under common use by both trained and untrained individuals in minimally supervised ministry environments.
 
 ### Support or Contact
 
